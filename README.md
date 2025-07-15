@@ -41,6 +41,6 @@ cd stock
 ![Stock prediction Screenshot](screenshots/stock_app_ui.png)
 
 ## 🖥️ Live Demo
-👉 [Click here to view the calculator](https://wvfx6ieaj9usr2xyyvan3s.streamlit.app/)
+👉 [Click here to view the stock_price_prediction_app](https://wvfx6ieaj9usr2xyyvan3s.streamlit.app/)
 
 
