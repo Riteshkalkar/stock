@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📈 Stock Price Predictor (Python + Streamlit)
 
 A machine learning-powered web app that predicts future stock prices using historical data. Built using Python, Streamlit, and various ML libraries.
@@ -44,3 +45,6 @@ cd stock
 👉 [Click here to view the stock_price_prediction_app](https://wvfx6ieaj9usr2xyyvan3s.streamlit.app/)
 
 
+=======
+# stock
+>>>>>>> 971035f (Added README with screenshot)
