@@ -38,7 +38,7 @@ git clone https://github.com/Riteshkalkar/stock.git
 cd stock
 
 ## 📸 Screenshot
-![Calculator Screenshot](screenshots/stock_app_ui.png)
+![Stock prediction Screenshot](screenshots/stock_app_ui.png)
 
 ## 🖥️ Live Demo
 👉 [Click here to view the calculator](https://wvfx6ieaj9usr2xyyvan3s.streamlit.app/)
